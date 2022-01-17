@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShubhamB10
 - 👀 I’m interested in fronted development.
-- 🌱 I’m currently learning C++ 
+- 🌱 I’m currently learning Python. 
 - 📫 How to reach me Twitter - @shubhamb10
 
 <!---
